@@ -1,0 +1,7 @@
+Names/PIDS: 
+Nathan Roberts (nathan03) 
+Ijahmin Balser (ijahminb) 
+Colin McGee (colinm25)
+
+Standup does not support use on a common application like a web app and requires it to upload a .csv file to work. AI doesn't not
+architecture of a system to support use cases for human use and so requires human involvement to make it a program that runs.
