@@ -9,6 +9,8 @@ Maya Makked (mayam22)
 Pros of software engineering with ChatGPT
   It can decrease time spent coding.
   Can generate blocks for more simple concepts fairly right.
+  Can help when developers get stuck on something.
+  Can help developers better understand a concept/
 
 Cons of software engineering with ChatGPT
   Generated code may not be correct
@@ -22,3 +24,5 @@ Cons of software engineering with ChatGPT
     type of system, or even the wrong language or version of a language, because
     people frequently share what they know and are comfortable with, rather than 
     whats applicable.
+  Security risks depending on what it is used for.
+  Companies may rely on AI and cut on jobs.
