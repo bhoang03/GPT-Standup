@@ -12,3 +12,6 @@ Pros of software engineering with ChatGPT
 Cons of software engineering with ChatGPT
   Generated code may not be correct
   More time might be spent debugging broken code instead of generating correct code
+  It doesn't have originality, it just takes from previously provided data
+  It can write literal code but it does not have the complex human mind to design a whole system
+  You cannot blindly trust it
